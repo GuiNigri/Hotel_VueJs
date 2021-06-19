@@ -2,7 +2,7 @@
   <b-container fluid id="app">
     <b-navbar type="dark" toggleable variant="dark" id="navbar">
       <b-navbar-brand :to="{ name: 'home' }" href="#"
-        >Hoteis.com</b-navbar-brand
+        >hoteismaravilhosos.com</b-navbar-brand
       >
       <b-navbar-toggle target v-b-modal.modal-1>
         <b-icon icon="plus"></b-icon>
